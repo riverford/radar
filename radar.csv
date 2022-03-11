@@ -3,4 +3,5 @@ Expensify,Assess,Tools,TRUE,Streamline and simplify expense reporting at Riverfo
 Rules Engine,Assess,Tools,TRUE,"Rules engines provide a declarative way to specify business logic, policies, and rules in a single place, rather that spread out across various files and functions."
 Braze,Hold,Platforms,TRUE,"Braze is a powerful real-time, event-driven marketing automation platform."
 TypeScript,Assess,languages-and-frameworks,TRUE,
+Calendly,Assess,Tools,TRUE,"calendly makes it easy to schedule meetings without the need for back-and-forth emails"
 malli,Assess,Techniques,TRUE,"malli provides data-driven schemas for Clojure(Script)."
